@@ -1,12 +1,17 @@
 # Rock Paper Scissors Game with Hand Tracking using OpenCV
 
-Welcome to the Rock Paper Scissors game with hand tracking! This simple yet interactive game allows you to play Rock Paper Scissors against an AI opponent using hand gestures. 
+Welcome to the Rock🪨 Paper📄 Scissors✂️ game with hand tracking! This simple yet interactive game allows you to play Rock Paper Scissors against an AI opponent using hand gestures. 
 
 ## Requirements
 - Python 3.x
 - OpenCV
 - cvzone
 - Mediapipe for Hand Detection
+
+## IDE used
+Pycharm by JetBrains (recommended)
+
+You need to import cvzone and mediapipe library at your machine in this directory
 
 ## How to Play
 1. Run the script.
@@ -30,9 +35,17 @@ Welcome to the Rock Paper Scissors game with hand tracking! This simple yet inte
 - The AI's moves are randomly generated.
 - Scores are displayed on the screen, showing both the AI and player scores.
 
+## Demo 
+
+https://github.com/ayushtan123/Hand-Warriors/assets/121681555/e17c1b0b-21a7-4918-b9ac-b7d8589ed85a
+
+
 Feel free to explore, modify, and enhance the game as you like! Enjoy playing Rock Paper Scissors with a twist of hand tracking. If you encounter any issues or have suggestions for improvement, please let me know.
 
 Stone✊ Paper🖐️ Scissor✌️ ! 
 
 Have fun gaming! 🎮
+
+
+
 
