@@ -33,5 +33,6 @@ Welcome to the Rock Paper Scissors game with hand tracking! This simple yet inte
 Feel free to explore, modify, and enhance the game as you like! Enjoy playing Rock Paper Scissors with a twist of hand tracking. If you encounter any issues or have suggestions for improvement, please let me know.
 
 Stone✊ Paper🖐️ Scissor✌️ ! 
+
 Have fun gaming! 🎮
 
